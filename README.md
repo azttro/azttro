@@ -1,8 +1,8 @@
-#Azttro Caztellany
+# 👋 Azttro Caztellany
 
 **`Desenvolvedor Front-End`**
 
-Olá sejá bem-vindo me chamo **Gabriel** e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir um pouco todos os dias construindo projetos e aprendendo na prática.
+-# Olá sejá bem-vindo me chamo **Gabriel** e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir um pouco todos os dias construindo projetos e aprendendo na prática.
 
 Hoje já trabalho com algumas ferramentas e tecnologias como **HTML, CSS, JavaScript, Sass, Bootstrap e Vite**, além de estudar **React** para criação de interfaces modernas.
 
