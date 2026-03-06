@@ -28,8 +28,8 @@
 
 <img src="https://streak-stats.demolab.com?user=azttro"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=azttro&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=azttro&show_icons=true&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azttro&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azttro&layout=compact&hide_border=true"/>
 
 </p>
