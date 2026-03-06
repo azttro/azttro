@@ -1,7 +1,7 @@
 <h1 align="center">Azttro Caztellany</h1>
 
 <p align="center">
-<sub><b>**`Desenvolvedor Front-End`**</b></sub>
+**`Desenvolvedor Front-End`**
 </p>
 
 <sub>Olá, seja bem-vindo! Me chamo <b>Gabriel</b> e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir todos os dias construindo projetos e aprendendo na prática. Hoje já trabalho com ferramentas como <b>HTML, CSS, JavaScript, Sass, Bootstrap e Vite</b>, além de estudar <b>React</b> para criação de interfaces modernas. Gosto da parte de criar interfaces e ver uma ideia virar algo visual e funcional no navegador. Ainda estou no caminho de aprendizado, cometendo erros, quebrando código e tentando entender como tudo realmente funciona.</sub>
