@@ -1,47 +1,26 @@
-# 👩🏻‍💻 Larissa Kich
+#Azttro Caztellany
 
-**Desenvolvedora Fullstack**
+**`Desenvolvedor Front-End`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul.
-Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente,
-estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por
-tecnologia e compartilho meu conhecimento através do meu canal no YouTube
-"[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar
-projetos web, e também através do Instagram, com o perfil chamado
-"[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá sejá bem-vindo me chamo **Gabriel** e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir um pouco todos os dias construindo projetos e aprendendo na prática.
 
-<p align="start">
+Hoje já trabalho com algumas ferramentas e tecnologias como **HTML, CSS, JavaScript, Sass, Bootstrap e Vite**, além de estudar **React** para criação de interfaces modernas.
 
-<a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-<img 
-    alt="youtube subscribers" 
-    title="Inscreva-se no meu canal" 
-    src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC0_gJ8RrTN5akHqlv055OVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-/>
-</a>
+Gosto da parte de criar interfaces, ver uma ideia virar algo visual e funcional no navegador. Ainda estou no caminho de aprendizado, cometendo erros, quebrando código e tentando entender como tudo realmente funciona.
 
-<a href="https://www.youtube.com/@larissakich">
-<img 
-    alt="youtube views" 
-    title="Visualizações no YouTube" 
-    src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0_gJ8RrTN5akHqlv055OVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-/>
-</a>
+Também compartilho um pouco da minha jornada no Instagram:  
+📷 [Clique aqui](https://www.instagram.com/azttrocaztellany?igsh=amw1dTQ5c3lnZXdn)
 
-<a href="https://github.com/larissakich?tab=repositories&sort=stargazers">
-<img 
-    alt="Total de estrelas" 
-    title="Total de estrelas GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/stars/larissakich?color=%2355965C&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-/>
-</a>
+Meu objetivo é continuar estudando, melhorar minhas habilidades e no futuro trabalhar profissionalmente como desenvolvedor Front-End.
 
-<a href="https://github.com/larissakich?tab=followers">
-<img 
-    alt="Seguidores" 
-    title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-/>
-</a>
 
+## 🤖 Linguagens e Tecnologias
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
 </p>
