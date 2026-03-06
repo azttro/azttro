@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
--# Olá sejá bem-vindo me chamo **Gabriel** e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir um pouco todos os dias construindo projetos e aprendendo na prática.
+ <sub>Olá sejá bem-vindo me chamo **Gabriel** e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir um pouco todos os dias construindo projetos e aprendendo na prática.
 
 Hoje já trabalho com algumas ferramentas e tecnologias como **HTML, CSS, JavaScript, Sass, Bootstrap e Vite**, além de estudar **React** para criação de interfaces modernas.
 
@@ -11,7 +11,7 @@ Gosto da parte de criar interfaces, ver uma ideia virar algo visual e funcional 
 Também compartilho um pouco da minha jornada no Instagram:  
 📷 [Clique aqui](https://www.instagram.com/azttrocaztellany?igsh=amw1dTQ5c3lnZXdn)
 
-Meu objetivo é continuar estudando, melhorar minhas habilidades e no futuro trabalhar profissionalmente como desenvolvedor Front-End.
+Meu objetivo é continuar estudando, melhorar minhas habilidades e no futuro trabalhar profissionalmente como desenvolvedor Front-End.<sub>
 
 
 ## 🤖 Linguagens e Tecnologias
