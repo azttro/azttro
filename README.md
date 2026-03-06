@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1368010440734674996/1476600468749942945/Banner_Logo_A.jpg?ex=69ac42d9&is=69aaf159&hm=764c511459ce3457269e321efc4a1966706d41c0cdc44895a1a6f20bf8fff22e&" width="100%" />
+</p>
+
 <h1 align="center">DESENVOLVEDOR FRONT-END</h1>
 
 <p align="center">
@@ -9,7 +13,7 @@ Olá, seja bem-vindo! Me chamo <b>Gabriel</b> e estou estudando programação co
 <p align="center">
 <sub>
 <b>Também compartilho um pouco da minha jornada no Instagram:</b> 
-<a href="https://www.instagram.com/azttrocaztellany?igsh=amw1dTQ5c3lnZXdn">Clique aqui</a>
+<a href="https://www.instagram.com/azttrocaztellany">Clique aqui</a>
 </sub>
 </p>
 
@@ -28,34 +32,28 @@ Olá, seja bem-vindo! Me chamo <b>Gabriel</b> e estou estudando programação co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40"/>
 </p>
 
----
+<br>
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=azttro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<a href="https://instagram.com/azttrocaztellany">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azttro&layout=compact&langs_count=8&theme=dark"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+</a>
 
 </div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azttro&theme=dark" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=azttro&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azttro/azttro/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azttro/azttro/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azttro/azttro/output/pacman-contribution-graph.svg">
-</picture>
