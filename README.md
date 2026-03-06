@@ -24,8 +24,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40"/>
 </p>
 
-
 <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=azttro"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=azttro&show_icons=true"/>
 
