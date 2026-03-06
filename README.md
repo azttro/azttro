@@ -1,14 +1,7 @@
 # 👋 Azttro Caztellany
 **`Desenvolvedor Front-End`**
 
- <sub>Olá sejá bem-vindo me chamo **Gabriel** e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir um pouco todos os dias construindo projetos e aprendendo na prática.<sub>
- 
-<sub>Hoje já trabalho com algumas ferramentas e tecnologias como **HTML, CSS, JavaScript, Sass, Bootstrap e Vite**, além de estudar **React** para criação de interfaces modernas.<sub>
-
-<sub>Gosto da parte de criar interfaces, ver uma ideia virar algo visual e funcional no navegador. Ainda estou no caminho de aprendizado, cometendo erros, quebrando código e tentando entender como tudo realmente funciona.<sub>
-
-<sub>**Também compartilho um pouco da minha jornada no Instagram:**
-📷 [Clique aqui](https://www.instagram.com/azttrocaztellany?igsh=amw1dTQ5c3lnZXdn)<sub>
+<sub>Olá, seja bem-vindo! Me chamo <b>Gabriel</b> e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir todos os dias construindo projetos e aprendendo na prática. Hoje já trabalho com ferramentas como <b>HTML, CSS, JavaScript, Sass, Bootstrap e Vite</b>, além de estudar <b>React</b> para criação de interfaces modernas. Gosto da parte de criar interfaces e ver uma ideia virar algo visual e funcional no navegador. Ainda estou no caminho de aprendizado, cometendo erros, quebrando código e tentando entender como tudo realmente funciona. Também compartilho um pouco da minha jornada no Instagram: 📷 <a href="https://www.instagram.com/azttrocaztellany?igsh=amw1dTQ5c3lnZXdn">Clique aqui</a></sub>
 
 ## 🤖 Linguagens e Tecnologias
 <p align="left">
