@@ -2,8 +2,6 @@
 <img src="https://cdn.discordapp.com/attachments/1368010440734674996/1476600468749942945/Banner_Logo_A.jpg?ex=69ac42d9&is=69aaf159&hm=764c511459ce3457269e321efc4a1966706d41c0cdc44895a1a6f20bf8fff22e&" width="100%" />
 </p>
 
-<h1 align="center">DESENVOLVEDOR FRONT-END</h1>
-
 <p align="center">
 <sub>
 Olá, seja bem-vindo! Me chamo <b>Gabriel</b> e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir todos os dias construindo projetos e aprendendo na prática. Hoje já trabalho com ferramentas como <b>HTML, CSS, JavaScript, Sass, Bootstrap e Vite</b>, além de estudar <b>React</b> para criação de interfaces modernas. Gosto da parte de criar interfaces e ver uma ideia virar algo visual e funcional no navegador. Ainda estou no caminho de aprendizado, cometendo erros, quebrando código e tentando entender como tudo realmente funciona.
