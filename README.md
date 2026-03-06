@@ -29,8 +29,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=azttro&show_icons=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azttro"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azttro&layout=compact"/>
 
 </p>
