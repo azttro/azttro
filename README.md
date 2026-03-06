@@ -1,7 +1,4 @@
-<h1 align="center">Azttro Caztellany</h1>
-<p align="center">
-<b>Desenvolvedor Front-End</b>
-</p>
+<h1 aling="center">DESENVOLVEDOR FRONT-END</h1>
 
 <hr>
 
