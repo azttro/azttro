@@ -26,6 +26,5 @@
 
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=000000&border_color=39ff14"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=39ff14&bg_color=000000&border_color=39ff14"/>
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=chartreuse-dark&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&border=39ff14"/>
 </p>
