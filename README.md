@@ -26,22 +26,6 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&margin-w=10&margin-h=10"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </p>
