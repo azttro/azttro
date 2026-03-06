@@ -25,4 +25,12 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=azttro&show_icons=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azttro"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azttro&layout=compact"/>
+
+</p>
