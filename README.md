@@ -1,9 +1,8 @@
-<h1>
-Azttro Caztellany 
-<span style="background:#39FF14; color:black; font-size:14px; padding:4px 8px; border-radius:6px; margin-left:8px;">
-Desenvolvedor Front-End
-</span>
-</h1>
+<h1 align="center">Azttro Caztellany</h1>
+
+<p align="center">
+<sub><b>**`Desenvolvedor Front-End`**</b></sub>
+</p>
 
 <sub>Olá, seja bem-vindo! Me chamo <b>Gabriel</b> e estou estudando programação com foco em me tornar um desenvolvedor Front-End. Tenho explorado tecnologias do ecossistema web e tentando evoluir todos os dias construindo projetos e aprendendo na prática. Hoje já trabalho com ferramentas como <b>HTML, CSS, JavaScript, Sass, Bootstrap e Vite</b>, além de estudar <b>React</b> para criação de interfaces modernas. Gosto da parte de criar interfaces e ver uma ideia virar algo visual e funcional no navegador. Ainda estou no caminho de aprendizado, cometendo erros, quebrando código e tentando entender como tudo realmente funciona.</sub>
 
@@ -24,5 +23,4 @@ Desenvolvedor Front-End
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40
