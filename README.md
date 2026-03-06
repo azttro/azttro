@@ -23,3 +23,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40"/>
 </p>
+
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=000000&border_color=39ff14"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&title_color=39ff14&text_color=39ff14&bg_color=000000&border_color=39ff14"/>
+</p>
