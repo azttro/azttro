@@ -24,7 +24,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40"/>
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact"/>
+
+</p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=chartreuse-dark&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&border=39ff14"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&margin-w=10&margin-h=10"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO"/>
+
 </p>
